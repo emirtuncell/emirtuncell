@@ -46,27 +46,21 @@
 
 | 🚀 Proje | 🧩 Açıklama |
 |----------|-------------|
-| 🏎️ **Teknofest Otonom Araç Projesi** | Otonom sürüş algoritmaları ve sensör entegrasyonları üzerinde çalışarak, Teknofest yarışmasında ekibimizle birlikte başarı elde ettik. Gerçek zamanlı veri işleme ve sensör füzyonu konularında deneyim kazandım. |
-| 🔬 **TÜBİTAK 2247-C Projesi (Mentorluk Programı)** | TÜBİTAK destekli 2247-C Mentorluk projesinde araştırmacı olarak görev aldım. Proje kapsamında veri toplama, analiz ve Python tabanlı modelleme süreçlerinde aktif rol oynadım. |
+| 🏎️ **Teknofest Otonom Araç Projesi** | Otonom sürüş algoritmaları ve sensör entegrasyonları üzerinde çalışarak, Teknofest yarışmasında ekibimizle birlikte başarı elde ettik. Lokalizasyon ve haritalama kısmında deneyim kazandım. |
+| 🔬 **TÜBİTAK 2247-C Projesi** | TÜBİTAK destekli 2247-C Mentorluk projesinde araştırmacı olarak görev aldım. Proje kapsamında veri toplama, analiz ve Python tabanlı modelleme süreçlerinde aktif rol oynadım. |
 | 📈 **Bitirme Projesi – LSTM ile Hisse Senedi Fiyat Tahmini** | Python ve LSTM derin öğrenme algoritması kullanarak hisse senedi fiyat tahmin modeli geliştirdim. Zaman serisi verilerini analiz ederek geleceğe yönelik fiyat tahminleri üreten bir sistem tasarladım. |
 
 ---
 
 ## 🌱 Şu Anda Öğrendiklerim  
-- Gelişmiş **veritabanı tasarımı** ve **sorgu optimizasyonu**  
+- **Amazon Web Services**
+- **GraphQL sorguları** 
 - **Veri bilimi araçları** (NumPy, scikit-learn)  
 - **Sistem tasarımı** ve backend ölçeklenebilirliği  
 
 ---
 
-## 📈 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirTuncel&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirTuncel&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
 
 ## 📫 Benimle İletişime Geç  
 
